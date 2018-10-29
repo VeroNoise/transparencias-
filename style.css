@@ -1,0 +1,88 @@
+
+*{ 
+	margin:0px;
+	padding:0px ;
+}
+
+div#cuadros{
+	p style ="font-family: 'Rock Salt', cursive;font-size:30px;  color : transparent; text-shadow: 0 0 5px rgba(0,0,0,3)" text align =center
+	margin:auto;
+	margin-top:50px;
+	width:960px;
+	height:800px;
+	background-color:#797D7f;
+}
+
+
+div#fetiches{
+	float:right ;
+	width:300px;
+	height:500px;
+	background-color:#797D7F ;
+}
+
+
+	
+div#novedarks{
+	width:640px;
+	height:200px;
+	background-color:#212F3D  ;
+}
+
+div#body{
+	margin-top: 20px;: 
+	width:640px;
+	height:580px;
+	background-color:#CB4335 ;
+}
+
+
+.blur {
+   color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+
+
+#pestanas {
+float:left;
+width:100%;
+line-height:normal;
+font-size: 20px;
+font-weight: bold;
+}
+
+#pestanas ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+
+
+#pestanas li {
+float:left;
+margin:0 0 0 3px;
+padding:0;
+background:url("uno.jpg") no-repeat right top;
+}
+
+
+#pestanas a {
+padding:3px 10px 3px 10px;
+display:block;
+background:url("uno.jpg") no-repeat left top;
+color: #fff;
+text-decoration: none;
+}
+
+#pestanas .activa a{
+background-image:url("uno.jpg");
+}
+#pestanas .activa{
+background-image:url("perfil.jpg");
+}
+
+
+
+
+
